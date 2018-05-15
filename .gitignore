@@ -1,1 +1,11 @@
-class_server/classify.pyc
+*.py
+*.pyc
+*.csv
+*.png
+*.json
+data/*
+article_data/
+word_data/
+pickle/
+notes.txt
+.ipynb_checkpoints/
