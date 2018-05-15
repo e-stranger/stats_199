@@ -1,6 +1,5 @@
 *.py
 *.pyc
-.idea/
 .DS_Store
 *.csv
 *.txt
@@ -9,3 +8,5 @@
 pickle/
 word_data/
 .ipynb_checkpoints/
+data/
+.idea/
