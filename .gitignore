@@ -1,2 +1,11 @@
-class_server/classify.pyc
+*.py
+*.pyc
+.idea/
+.DS_Store
+*.csv
+*.txt
+*.png
+*.json
+pickle/
+word_data/
 .ipynb_checkpoints/
