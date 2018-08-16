@@ -1,8 +1,6 @@
-*.py
 *.pyc
 .DS_Store
 *.csv
-*.txt
 *.png
 *.json
 pickle/
@@ -10,4 +8,5 @@ word_data/
 .ipynb_checkpoints/
 data/
 .idea/
-env/
+env2/
+class_server/
