@@ -2,6 +2,7 @@
 .DS_Store
 *.csv
 *.png
+*.py
 *.json
 pickle/
 word_data/
@@ -10,3 +11,4 @@ data/
 .idea/
 env2/
 class_server/
+dep/
