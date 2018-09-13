@@ -1,9 +1,9 @@
 # UCLA STATS 199 - Independent Directed Research
-## Political Document Topic distribution using Latent Direchlet Allocation
+------------------------------------------------
 
-This repository contains the code and data for my Spring 2018 STATS 199 class with Professor Miles Chen. This project concerns the distribution of topics - e.g. immigration or healthcare - between different online publications, and what this indicates about them.
+## Topic Distribution and Similarity in Online Publications
 
-I will be using the principle of Latent Direchlet Allocation (LDA) to let the topics naturally emerge from the data.
+This repository contains the code and data for my Spring/Summer 2018 STATS 199 class with Professor Miles Chen. This project concerns the distribution of topics - e.g. immigration or healthcare - and how they are identified, with an emphasis on easily interpretable methods. Additionally, this project explores other more abstract, less interpretable methods, such as variational autoencoders and word embeddings, which are both various forms of dimensionality reduction.
 
-More to come!
+The code can be found in the notebok `proj.ipynb`.
 
